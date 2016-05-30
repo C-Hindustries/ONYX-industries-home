@@ -1,1 +1,31 @@
-
+.logoDiv {
+    color: #dddddd;
+    position: relative;
+    font-family: monospace, monospace;
+    font-size: 45px;
+    border-style: outset outset outset outset;
+    border-radius: 7px;
+    text-align: center;
+    letter-spacing: 15px;
+    border-color: #dddddd;
+    border-width: 5px;
+    top: 50px;
+    width: 420px;
+    margin: auto;
+}
+.descriptionDiv {
+    color: #f51a0a;
+    position: relative;
+    font-family: monospace, monospace;
+    font-size: 25px;
+    border-style: outset outset outset outset;
+    border-radius: 7px;
+    text-align: center;
+    letter-spacing: 15px;
+    border-color: #f51a0a;
+    border-width: 5px;
+    top: auto;
+    width: 650px;
+    margin: auto;
+    background-color: #e6f3ff;
+}
