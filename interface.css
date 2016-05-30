@@ -28,3 +28,18 @@
     margin: auto;
     background-color: #e6f3ff;
 }
+.productDiv{
+        color: #f51a0a;
+    position: relative;
+    font-family: Serif;
+    font-size: 25px;
+    border-style: outset outset outset outset;
+    border-radius: 7px;
+    text-align: center;
+    border-color: #f51a0a;
+    border-width: 5px;
+    top: 650;
+    width: 650px;
+    margin: auto;
+    background-color: #e6f3ff;
+}
